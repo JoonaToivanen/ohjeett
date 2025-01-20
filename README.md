@@ -13,7 +13,7 @@ Rekisteröidy [GitHubiin](https://github.com/)
 Määritä Gitin asetukset:
 
 
-git config --global user.name "Nimesi"
+`git config --global user.name "Nimesi"`
 
 
 git config --global user.email "sähköposti@esimerkki.com"
