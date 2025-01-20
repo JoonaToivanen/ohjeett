@@ -7,7 +7,7 @@
 Lataa ja asenna [Git](https://git-scm.com/) 
 
 
-Luo GitHub-tili: Rekisteröidy GitHubiin.
+Rekisteröidy [GitHubiin](https://github.com/)
 Määritä Gitin asetukset:
 bash
 Kopioi
