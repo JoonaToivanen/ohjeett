@@ -5,6 +5,8 @@
 ## Gitin ja GitHubin alustus
 
 Lataa ja asenna [Git](https://git-scm.com/) 
+
+
 Luo GitHub-tili: Rekisteröidy GitHubiin.
 Määritä Gitin asetukset:
 bash
