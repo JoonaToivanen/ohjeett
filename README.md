@@ -1,1 +1,2 @@
-# ohjeet
+# Ohjeet Gitin käyttöön
+
